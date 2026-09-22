@@ -2,11 +2,13 @@
 # print("Name:- ", user_name)
 
 
+# age should only be integers allow number only
 # user_age = input("Enter Your Age:- ")
 # print("Age:- ", user_age)
 # print("Type of user_age:- ", type(user_age))
 
 
+## once a user enter random text its not asking again program got exited
 # yes_no = input("Enter yes or no:- ")
 # if yes_no=="yes":
 #     val = True
@@ -20,6 +22,7 @@
 #     print("Enter from only yes or no")
 
 
+# if i enter char in age,height,-ve number not handled float not handled getting error
 # user_name = input("Enter Your Name: ")
 # user_age = int(input("Enter your Age: "))
 # user_height = float(input("Enter your height: "))

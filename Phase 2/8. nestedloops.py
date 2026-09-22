@@ -1,3 +1,4 @@
+#not handled strings and float
 # n = int(input("Enter a number:- "))
 # if n<0:
 #     print("Enter a positive number")
@@ -8,6 +9,7 @@
 #         print()
 
 
+#not handled strings and float 
 # n = int(input("Enter a number:- "))
 # if n<0:
 #     print("Enter a positive number")
@@ -36,6 +38,7 @@
 #     print(i)
 
 
+#not handled strings and float
 # row = int(input("Enter number of rows: "))
 # col = int(input("Enter number of cols: "))
 
@@ -48,6 +51,7 @@
 #         print()
 
 
+#not handled strings and float
 # a = 29
 # for i in range(5):
 #     x = int(input("Enter a number: "))

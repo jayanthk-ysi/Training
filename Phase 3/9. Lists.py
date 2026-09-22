@@ -1,3 +1,4 @@
+#not handled strings 
 # l = []
 # a = float(input("Enter a number:- "))
 # b = float(input("Enter a number:- "))
@@ -15,10 +16,12 @@
 # print("Smallest No.:- ",min(l))
 
 
+#not handled strings 
 # squares = [x**2 for x in range(1,21) if x%3!=0]
 # print(squares)
 
 
+#not handled strings 
 # x = input("Enter comma separated values:- ")
 # l = x.split(',')
 # l = [float(i) for i in l]
@@ -30,15 +33,16 @@
 # print(ans)
 
 
+
 # l = [1,2,3,4,5,6,7,8]
 # print("Every third element of list:- ", l[::3])
 # print("Reverse list:- ",l[::-1])
 
 
-# l = input("Enter a list of words separated by comma:- ")
-# l = l.split(',')
-# ll = [x.strip() for x in l]
-# ll = [x.capitalize() for x in ll]
-# print(ll)
+l = input("Enter a list of words separated by comma:- ")
+l = l.split(',')
+ll = [x.strip() for x in l]
+ll = [x.capitalize() for x in ll]
+print(ll)
 
 

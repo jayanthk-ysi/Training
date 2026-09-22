@@ -1,3 +1,5 @@
+
+#not handled text 
 # a = float(input("Enter a number:- "))
 # b = float(input("Enter another number:- "))
 # print("Sum of the numbers:- ", a+b)
@@ -5,7 +7,7 @@
 # print("Multiplication of the numbers:- ", a*b)
 
 
-
+#not handled string input
 # a = float(input("Enter a number:- "))
 # b = float(input("Enter another number:- "))
 
@@ -17,13 +19,13 @@
 # print("Whole Number Part of the division:- ", a//b)
 
 
-
+#not handled string input
 # a = float(input("Enter a number:- "))
 # print("Raised to power 2:- ", a**2)
 # print("Raised to power 3:- ", a**3)
 
 
-
+#not handled string input
 # a = float(input("Enter a number:- "))
 # b = float(input("Enter another number:- "))
 # if a>b:

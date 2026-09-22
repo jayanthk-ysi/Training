@@ -1,3 +1,4 @@
+#not handled strings
 # a = float(input("Enter a number:- "))
 # b = float(input("Enter a number:- "))
 # c = float(input("Enter a number:- "))
@@ -15,14 +16,14 @@
 # else: 
 #     print("The largest Number is ", c)
 
-
+#not handled strings and -ve number
 # a = int(input("Enter a year:- "))
 # if a%4==0 and ((a%100==0 and a%400==0) or (a%100!=0)) :
 #     print("Leap Year")
 # else:
 #     print("Not a Leap Year")
 
-
+#not handled strings -ve numbers
 # a = float(input("Enter a percentage score:- "))
 # if a>=0 and a<=25:
 #     print("A")

@@ -36,7 +36,7 @@
 # print(func(name = "a",age = 10))
 # print(func(age = 10,name = "a"))
 
-
+#no user input choice
 # def func(l):
 #     e=0
 #     o=0

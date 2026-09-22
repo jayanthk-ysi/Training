@@ -24,13 +24,13 @@
 # print("Intersection:- ",a&b)
 # print("Unique to a:- ", a-b)
 
-
-# x = input("Enter CSV numbers:- ")
-# x = x.split(',')
-# x = [y.strip() for y in x]
-# s = {}
-# for i in x:
-#     s[i]=None
-# print(s.keys())
+#not handled 2,,,,,,
+x = input("Enter CSV numbers:- ")
+x = x.split(',')
+x = [y.strip() for y in x]
+s = {}
+for i in x:
+    s[i]=None
+print(s.keys())
 
 

@@ -24,14 +24,15 @@
 # print("Count of 'e' in sentence:- ", a.count('e'))
 
 
-x = input("Enter c for celcius to fahrenheit or f for the reverse:- ")
-if x=='c':
-    a = float(input("Enter the temperature in celcius:- "))
-    fahreiheit = (a*(9/5))+32
-    print(f"Temperature in fahrenheit: {fahreiheit:.2f}")
-elif x=='f':
-    a = float(input("Enter the temperature in fahrenheit:- "))
-    celcius = ((a-32)*5)/9
-    print(f"Temperature in fahrenheit: {celcius:.2f}")
-else:
-    print("Input either 'c' or 'f'")
+# lenght,weight,temp not asked
+# x = input("Enter c for celcius to fahrenheit or f for the reverse:- ")
+# if x=='c':
+#     a = float(input("Enter the temperature in celcius:- "))
+#     fahreiheit = (a*(9/5))+32
+#     print(f"Temperature in fahrenheit: {fahreiheit:.2f}")
+# elif x=='f':
+#     a = float(input("Enter the temperature in fahrenheit:- "))
+#     celcius = ((a-32)*5)/9
+#     print(f"Temperature in fahrenheit: {celcius:.2f}")
+# else:
+#     print("Input either 'c' or 'f'")

@@ -25,6 +25,7 @@
 #         print(i)
 
 
+#requires not satisfied
 # l = {
 #     "a": ["aa","ab","ac"],
 #     "b": ["ba","bb","bc"],
@@ -34,11 +35,15 @@
 #     print(f"Department {i} has {len(l[i])} employees.")
 
 
+
 # tup = [('a',4),('b',3),('c',2),('d',10),('e',15)]
 # print(sorted(tup,reverse=True,key= lambda x: x[1]))
 # print(tup)
 
 
+##54 question missing
+
+#phone number not handled
 # l = {
 #     "a": {"email": "a@gmail.com","phone": "1234567"},
 #     "b": {"email": "b@gmail.com","phone": "1234567"}

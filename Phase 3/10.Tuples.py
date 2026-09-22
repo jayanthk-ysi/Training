@@ -11,7 +11,7 @@
 # print("Product:- ",y)
 
 
-
+#didnt use try-catch
 # x = (0,1,2)
 # # x[0]=1 # Error:- 
 # # Traceback (most recent call last):

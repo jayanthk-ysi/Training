@@ -32,6 +32,7 @@
 # print(d)
 
 
+#not handled integers
 # d = {
 #     "a": 1,
 #     "b": 2,
@@ -43,6 +44,7 @@
 # d[inp]=x
 # d['c']=50.5
 # print(d)
+
 
 
 # d = {
